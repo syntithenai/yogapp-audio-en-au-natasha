@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "en-au-natasha.zip", "bytes": 78075154, "sha256": "6685a60bd25cc37cc0a4db3e5df42eb1c9c9d8357d1d7c343ac250a0f1bc6f5f"}
+  ]
+}
